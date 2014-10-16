@@ -1,0 +1,11 @@
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\bin\Debug\MenuRound.exe
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\bin\Debug\MenuRound.pdb
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\obj\x86\Debug\MainWindow.baml
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\obj\x86\Debug\MainWindow.g.cs
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\obj\x86\Debug\App.g.cs
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\obj\x86\Debug\MenuRound_MarkupCompile.cache
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\obj\x86\Debug\MenuRound.g.resources
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\obj\x86\Debug\MenuRound.Properties.Resources.resources
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\obj\x86\Debug\MenuRound.csproj.GenerateResource.Cache
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\obj\x86\Debug\MenuRound.exe
+C:\Users\yuqiang\Desktop\MenuRound\MenuRound\obj\x86\Debug\MenuRound.pdb
